@@ -6,6 +6,7 @@
         <Nullable>enable</Nullable>
         <AssemblyName>wxl2png</AssemblyName>
         <RootNamespace>wxl2png</RootNamespace>
+        <Version>1.1</Version>
     </PropertyGroup>
 
     <ItemGroup>

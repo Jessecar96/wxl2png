@@ -19,7 +19,7 @@ class Program
 
         string file = args[0];
 
-        if (File.Exists(file))
+        if (!File.Exists(file))
         {
             Console.WriteLine("File not found: {0}", file);
             return;
