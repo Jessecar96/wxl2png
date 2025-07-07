@@ -4,4 +4,6 @@
 ## Usage
 Compile the program using Visual Studio, Rider, or other .NET IDE.
 
+Due to the use of System.Drawing this program likely only works on Windows.
+
 ```Usage: wxl2png <file.wxl>```
